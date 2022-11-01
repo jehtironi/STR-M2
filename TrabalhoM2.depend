@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1667293938 source:/home/jessica/Documentos/TrabalhoM2/main.c
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<sched.h>
+	<string.h>
+	<errno.h>
+	<omp.h>
+	"gconio.h"
+
+1665966857 /home/jessica/Documentos/TrabalhoM2/gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
